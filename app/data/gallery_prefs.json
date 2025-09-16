@@ -1,0 +1,34 @@
+{
+  "3": {
+    "ids": [
+      "D1106E63-5F7F-021D-8CAD-6D1DFF0EC2E1",
+      "97FE31BC-41DE-62E0-5641-B113C93F6EB4"
+    ],
+    "names": [
+      "Anime",
+      "Featured"
+    ]
+  },
+  "2": {
+    "ids": [
+      "8C5EBC6B-3CF2-7BAD-6B96-CE63BF461100",
+      "E1CCC823-2AAF-9989-82A2-E97B7EDDCE29",
+      "204D6CE3-BDDD-B0AD-1EC1-EDA0268909C6",
+      "8F6475C0-491C-B285-D880-10D0CF060128"
+    ],
+    "names": [
+      "Fantasy",
+      "DND",
+      "Male all my male characters",
+      "Featured"
+    ]
+  },
+  "1": {
+    "ids": [
+      "5580D841-BF42-BED8-A317-38B749865C7C"
+    ],
+    "names": [
+      "Humans"
+    ]
+  }
+}
